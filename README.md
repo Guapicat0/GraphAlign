@@ -36,11 +36,8 @@ Text-to-image (T2I) generation has emerged as a crucial component of AI content 
 
 GraphAlign is a project for graph alignment and vision-text representation learning.  
 
----
-
 ## Quick Start
 
-```bash
 git clone https://github.com/Guapicat0/GraphAlign
 cd GraphAlign
 
