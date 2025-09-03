@@ -17,7 +17,7 @@ Text-to-image (T2I) generation has emerged as a crucial component of AI content 
 3. Identifying prompt-relevant regions via Subgraph Search
 4. Calculating alignment scores through graph matching
 
-<h2>Results</h2>
+<h2>📊Results</h2>
 <p align="center">
   <img style="width: 80%" src="fig/results.png">
 </p>
