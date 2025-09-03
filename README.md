@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Graph-Align: Evaluating Text-to-Image Alignment with Fine-grained Graph Matching</h1> 
-<div align="center">
+  <h1>Graph-Align: Evaluating Text-to-Image Alignment with Fine-grained Graph Matching</h1>
   <img src="fig/teaser.png" width="85%">
 </div>
 
